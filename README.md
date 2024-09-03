@@ -1,6 +1,6 @@
 # Module_13_E-commerce
 
-An application that allows users generate notes and delete them.
+An application that allows retail company to create item tags and categories to organize shop items. 
 
 ## Acceptance Criteria
 
